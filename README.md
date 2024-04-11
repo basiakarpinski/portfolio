@@ -30,10 +30,11 @@
 - Research and development to improve quality and push the capabilities of volumetric video integration  
 
 Work Samples:  
-[![Whipped Cream - The Dark](https://img.youtube.com/vi/If_lBsqRElI/maxresdefault.jpg)](https://www.youtube.com/watch?v=If_lBsqRElI)  
-Archspire - Bleed the Future  
-Archspire - BtF Behind-the-scenes  
-CBC Vancouver - Departure Lounge *←from shoot to delivery in 15 hours!*
+[![Whipped Cream - The Dark](https://img.youtube.com/vi/If_lBsqRElI/mqdefault.jpg)](https://www.youtube.com/watch?v=If_lBsqRElI)  &nbsp;&nbsp;&nbsp;&nbsp;
+[![Archspire - Bleed the Future](https://img.youtube.com/vi/_VOUyfPjxOk/mqdefault.jpg)](https://www.youtube.com/watch?v=_VOUyfPjxOk)  &nbsp;&nbsp;&nbsp;&nbsp;
+[![Archspire - BtF Behind-the-scenes](https://img.youtube.com/vi/vfbZmXtOA0c/mqdefault.jpg)](https://youtu.be/vfbZmXtOA0c?si=pMwhzOc9pq_gEahV&t=66)  &nbsp;&nbsp;&nbsp;&nbsp;
+[![CBC Vancouver - Departure Lounge](https://img.youtube.com/vi/LGD44qzIxpg/mqdefault.jpg)](https://www.youtube.com/watch?v=LGD44qzIxpg)    &nbsp;&nbsp;&nbsp;&nbsp;
+*←from shoot to delivery in 15 hours!*
 
 
 *Skills:* volumetric video, IOI Volucam & StudioCap, Microsoft Mixed Reality Capture Studios, Isilon storage, Azure Active Directory, Azure cloud processing, Clickup, Slack, Discord, Google office suite, event planning & logistics, virtual production installation, workstation configuration, remote render farm management
