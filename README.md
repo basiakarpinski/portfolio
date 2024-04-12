@@ -11,8 +11,8 @@
  &nbsp;&nbsp;&nbsp;&nbsp;  
 
 ## Work Experience  
-
- ### **Asset Library Data Wrangler** @ *Electronic Arts Inc* &nbsp;&nbsp;&nbsp;&nbsp; (Dec 2023 – Mar 2024) 
+  
+### **Asset Library Data Wrangler** @ *Electronic Arts Inc* &nbsp;&nbsp;&nbsp;&nbsp; (Dec 2023 – Mar 2024) 
  
 - Quality assurance and indexing 8000+ motion capture assets for data library
 - Preparing frame-accurate datasets for machine learning
