@@ -67,9 +67,8 @@ Sample episodes worked on:
 [![Michelle Thaller](assets/img/m-thaller.png)](https://medium.com/impact-everywhere/michelle-thaller-curiosity-podcast-852a5818c370 "The Unexpected Benefits of Investing in Curiosity ft. NASA Research Scientist Michelle Thaller")  &nbsp;&nbsp;&nbsp;&nbsp;
 [![Jack Sim](assets/img/jack-sim.png)](https://medium.com/impact-everywhere/jack-sim-toilet-podcast-11aa7937040b "Creating a Shitstorm for Good with Jack Sim")  &nbsp;&nbsp;&nbsp;&nbsp;
 [![Josh Balk](assets/img/josh-balk.png)](https://medium.com/impact-everywhere/josh-balk-plant-based-podcast-9a8aa6118792 "Humanity on Our Plates ft. Josh Balk")  &nbsp;&nbsp;&nbsp;&nbsp;
+[![Alison Teal](assets/img/alison-teal.jpg)](https://medium.com/impact-everywhere/alison-teal-social-influence-podcast-4a0f6a56d3f3 "The Intersection of Social Influence and Impact ft. Alison Teal")
 [![Charly Kleissner](assets/img/c-kleissner.png)](https://medium.com/impact-everywhere/charly-kleissner-impact-investment-podcast-fcce30cfb41d "Pioneering the world of Deep Impact Investing ft. Dr. Charly Kleissner, Co-Founder of KLF, Toniic, and ImpactAssets")  
-[![Alison Teal](assets/img/alison-teal.png)](https://medium.com/impact-everywhere/alison-teal-social-influence-podcast-4a0f6a56d3f3 "The Intersection of Social Influence and Impact ft. Alison Teal")
-
 
 
 
