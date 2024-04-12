@@ -1,8 +1,3 @@
-<head><script src="filter.js">  
-
-</script> <!-- Include external JavaScript file -->  
-</head>
-
 # Basia Karpinski
 *I'm the support character on your all-star team.*
 
@@ -17,22 +12,18 @@
 
 ## Work Experience  
 
-<input type="text" id="filterInput" placeholder="Type to filter"> <button onclick="filterSections()">Submit</button> <!-- Submit button -->  
-
-
  ### **Asset Library Data Wrangler** @ *Electronic Arts Inc* &nbsp;&nbsp;&nbsp;&nbsp; (Dec 2023 – Mar 2024) 
-<details>
+ <details>
  
 - Quality assurance and indexing 8000+ motion capture assets for data library
 - Preparing frame-accurate datasets for machine learning
 - Streamlining asset ingestion pipeline and library management
 - Validating accuracy of metadata for large-scale databases  
 
-<summary> *Skills:* database management & validation, Nasuni cloud storage, Airtable, Shotgrid, Slack </summary>
+*Skills:* database management & validation, Nasuni cloud storage, Airtable, Shotgrid, Slack
 </details>
 
 ### **Volumetric Capture Technician** @ *Departure Lounge* &nbsp;&nbsp;&nbsp;&nbsp; (Aug 2022 – Nov 2023)  
-<details>
 
 - Installing, wiring, disassembling LED virtual production volumes (100-16,000 wall + ceiling) - [See the permanent volume here](https://en.versatile.media/magic-hour-all-day-versatile-media-offers-unbelievable-vancouver-facility-for-filmmakers/)
 - Maintaining the volumetric capture stage, including pre-shoot prep, reconfiguration, and shoot operation, coordinating lighting, audio technicians, and makeup/wardrobe department  
@@ -53,7 +44,7 @@
 
 
 *Skills:* volumetric video, photogrammetry, IOI Volucam & StudioCap, Microsoft Mixed Reality Capture Studios, Parsec, Remote Desktop Connection, Perforce, Isilon storage, Azure Active Directory, Azure cloud processing, Clickup, Slack, Discord, Google office suite, Zoom, event planning & logistics, virtual production installation, workstation configuration, remote render farm management, python, command line, log file troubleshooting, IT support
-</details>
+
 
 ### **Capture Data Wrangler** @ *Electronic Arts Inc.*	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (Sept 2020 – Aug 2022)  
 <details>

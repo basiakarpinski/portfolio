@@ -1,8 +1,9 @@
 // filter.js
 
 // Function to filter sections based on input
-
+console.log("Javascript called!")
 function filterSections() {
+    console.log("button pressed!")
     var filterInput = document.getElementById("filterInput").value.toLowerCase();
     var sections = document.querySelectorAll("details");
     
