@@ -64,8 +64,8 @@
 
 [Listen to episodes 15-30 here](https://open.spotify.com/show/0rQV8hOcxSgrsEL4oW3Gu7?go=1&sp_cid=6289bf82fbba783379f7a1b1b89d835d&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=2f65378183254afe)  
 Sample episodes worked on:  
-[![Michelle Thaller](assets\img\m-thaller.png)](https://medium.com/impact-everywhere/michelle-thaller-curiosity-podcast-852a5818c370 "The Unexpected Benefits of Investing in Curiosity ft. NASA Research Scientist Michelle Thaller")  &nbsp;&nbsp;&nbsp;&nbsp;
-[![Jack Sim](assets\img\jack-sim.png)](https://medium.com/impact-everywhere/jack-sim-toilet-podcast-11aa7937040b "Creating a Shitstorm for Good with Jack Sim")  &nbsp;&nbsp;&nbsp;&nbsp;
+[![Michelle Thaller](assets/img/m-thaller.png)](https://medium.com/impact-everywhere/michelle-thaller-curiosity-podcast-852a5818c370 "The Unexpected Benefits of Investing in Curiosity ft. NASA Research Scientist Michelle Thaller")  &nbsp;&nbsp;&nbsp;&nbsp;
+[![Jack Sim](assets/img/jack-sim.png)](https://medium.com/impact-everywhere/jack-sim-toilet-podcast-11aa7937040b "Creating a Shitstorm for Good with Jack Sim")  &nbsp;&nbsp;&nbsp;&nbsp;
 [![Archspire - BtF Behind-the-scenes](https://img.youtube.com/vi/vfbZmXtOA0c/mqdefault.jpg)](https://youtu.be/vfbZmXtOA0c?si=pMwhzOc9pq_gEahV&t=66 "Archspire - BtF Behind-the-scenes")  &nbsp;&nbsp;&nbsp;&nbsp;
 [![CBC Vancouver - Departure Lounge](https://img.youtube.com/vi/LGD44qzIxpg/mqdefault.jpg)](https://www.youtube.com/watch?v=LGD44qzIxpg "CBC Vancouver - Departure Lounge") 
 
