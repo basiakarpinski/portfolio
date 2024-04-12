@@ -92,7 +92,7 @@ Sample work
 - [Interdisciplinary "Physics in English" collaborative lesson - Academic review article (EN/JP)](assets/lesson_materials/Interdisciplinary_lesson_action_research_review_article.docx.pdf)  
 - [Review worksheet - When to use 'a' and 'the'](assets/lesson_materials/Review_worksheet_-_When_to_use_a_and_the.docx.pdf)  
 - [Primary research introduction lesson](assets/lesson_materials/Primary_Research_intro_lesson.pptx.pdf)  
-- [Classroom warm-up exercises: writing topics](https://github.com/basiakarpinski/basiakarpinski/blob/main/assets/lesson_materials/Writing_warm-up_topics.docx.pdf)  
+- [Classroom warm-up exercises: writing topics](assets/lesson_materials/Writing_warm-up_topics.docx.pdf)  
 - [Weekly personal growth challenges](assets/lesson_materials/Weekly_personal_challenges_2020.docx.pdf)  
 
 *Skills:* foreign language instruction, socratic seminars, critical pedagogy, instructional design, event planning, classroom management  
