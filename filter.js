@@ -17,4 +17,4 @@ function filterSections() {
   }
 
 // Event listener for filter input
-document.getElementById("filterInput").addEventListener("input", filterSections);
+document.getElementById("filterInput").addEventListener("input", filterSections);  

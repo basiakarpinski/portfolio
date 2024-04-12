@@ -1,4 +1,6 @@
-<script src="filter.js"></script> <!-- Include external JavaScript file -->  
+<script src="filter.js">  
+
+</script> <!-- Include external JavaScript file -->  
 
 
 # Basia Karpinski
@@ -15,7 +17,7 @@
 
 ## Work Experience  
 
-<input type="text" id="filterInput" placeholder="Type to filter">  
+<input type="text" id="filterInput" placeholder="Type to filter"> <button onclick="filterSections()">Submit</button> <!-- Submit button -->  
 
 
  ### **Asset Library Data Wrangler** @ *Electronic Arts Inc* &nbsp;&nbsp;&nbsp;&nbsp; (Dec 2023 – Mar 2024) 
