@@ -13,7 +13,6 @@
 ## Work Experience  
 
  ### **Asset Library Data Wrangler** @ *Electronic Arts Inc* &nbsp;&nbsp;&nbsp;&nbsp; (Dec 2023 – Mar 2024) 
- <details>
  
 - Quality assurance and indexing 8000+ motion capture assets for data library
 - Preparing frame-accurate datasets for machine learning
@@ -21,7 +20,6 @@
 - Validating accuracy of metadata for large-scale databases  
 
 *Skills:* database management & validation, Nasuni cloud storage, Airtable, Shotgrid, Slack
-</details>
 
 ### **Volumetric Capture Technician** @ *Departure Lounge* &nbsp;&nbsp;&nbsp;&nbsp; (Aug 2022 – Nov 2023)  
 
@@ -47,7 +45,6 @@
 
 
 ### **Capture Data Wrangler** @ *Electronic Arts Inc.*	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (Sept 2020 – Aug 2022)  
-<details>
 
 - Setting up studio programs for motion, performance, director’s camera, & 3D scan captures for **Madden, FIFA, Dragon Age, Skate, SIMS, UFC, PGA Tour, College Football, etc.**
 - Ingesting, conditioning, and processing internal and external vendor capture data for delivery to clients and other departments using cloud storage and web-based applications  
@@ -61,11 +58,9 @@
 [FIFA 23](https://youtu.be/o89Jg-h7N3k?si=zH7oM6YHvCrT9vUs&t=1974)  
 [Dead Space Remake](https://youtu.be/XzY8GBSNydQ?si=aNuXmqCmwoKvlKQO&t=913)  
 
-*Skills:* optical & inertial motion capture, photogrammetry, photometrics, facial performance capture, FACS, director's camera, AWS cloud processing, Nasuni cloud storage, MotionBuilder, Shogun, Shotgrid, Perforce, monday.com, Google office suite, Slack, JIRA, Zoom, Remote Desktop Connection, Agisoft Metashape, Maya, Qube render manager, RealityCapture, 3DF Zephyr, VisualSFM, COLMAP, python, log file troubleshooting, IT support  
-</details>  
+*Skills:* optical & inertial motion capture, photogrammetry, photometrics, facial performance capture, FACS, director's camera, AWS cloud processing, Nasuni cloud storage, MotionBuilder, Shogun, Shotgrid, Perforce, monday.com, Google office suite, Slack, JIRA, Zoom, Remote Desktop Connection, Agisoft Metashape, Maya, Qube render manager, RealityCapture, 3DF Zephyr, VisualSFM, COLMAP, python, log file troubleshooting, IT support   
 
 ### **Producer** @ *Impact Everywhere Podcast* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (June 2020 – Oct 2020)  
-<details>
 
 - Researching & corresponding with potential interview guests, **preparing profiles and interview questions**
 - Supervising interviews and **directing interview** flow via back-channel communications to podcast host
@@ -79,10 +74,8 @@ Sample episodes worked on:
 [![Charly Kleissner](assets/img/c-kleissner.png)](https://medium.com/impact-everywhere/charly-kleissner-impact-investment-podcast-fcce30cfb41d "Pioneering the world of Deep Impact Investing ft. Dr. Charly Kleissner, Co-Founder of KLF, Toniic, and ImpactAssets")  
 
 *Skills:* chase production, remote interview, Canva, Reaper, Descript, social media marketing  
-</details>
 
 ### **Assistant Language Teacher** @ *Kobe Municipal Board of Education* &nbsp;&nbsp;&nbsp;&nbsp; (Feb 2016 – June 2020)  
-<details>
 
 - Leading **professional development seminars** for educators about national curriculum changes, instructional design, work ethic, inquiry methods, edtech in the classroom 
 - Corresponding with ministry regarding World Wide Learning (WWL) Ministry of Education initiatives - [Sample lesson presented for the Ministry of Education (EN/JP)](https://www.mext.go.jp/a_menu/kokusai/sgh/mext_00676.html#:~:text=%E7%A5%9E%E6%88%B8%E5%B8%82%E7%AB%8B%E8%91%BA%E5%90%88,%E5%85%B5%E5%BA%AB%E7%9C%8C)  
@@ -100,7 +93,6 @@ Sample work
 - [Weekly personal growth challenges](assets/lesson_materials/Weekly_personal_challenges_2020.docx.pdf)  
 
 *Skills:* foreign language instruction, socratic seminars, critical pedagogy, instructional design, event planning, classroom management  
-</details>
 
 ### Projects
 
