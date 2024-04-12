@@ -65,9 +65,9 @@
 [Listen to episodes 15-30 here](https://open.spotify.com/show/0rQV8hOcxSgrsEL4oW3Gu7?go=1&sp_cid=6289bf82fbba783379f7a1b1b89d835d&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=2f65378183254afe)  
 Sample episodes worked on:  
 [![Michelle Thaller](assets/img/m-thaller.png)](https://medium.com/impact-everywhere/michelle-thaller-curiosity-podcast-852a5818c370 "The Unexpected Benefits of Investing in Curiosity ft. NASA Research Scientist Michelle Thaller")  &nbsp;&nbsp;&nbsp;&nbsp;
-[![Jack Sim](assets/img/jack-sim.png)](https://medium.com/impact-everywhere/jack-sim-toilet-podcast-11aa7937040b "Creating a Shitstorm for Good with Jack Sim")  &nbsp;&nbsp;&nbsp;&nbsp;
-[![Josh Balk](assets/img/josh-balk.png)](https://medium.com/impact-everywhere/josh-balk-plant-based-podcast-9a8aa6118792 "Humanity on Our Plates ft. Josh Balk")  &nbsp;&nbsp;&nbsp;&nbsp;
-[![Alison Teal](assets/img/alison-teal.jpg)](https://medium.com/impact-everywhere/alison-teal-social-influence-podcast-4a0f6a56d3f3 "The Intersection of Social Influence and Impact ft. Alison Teal")
+[![Jack Sim](assets/img/jack-sim.png)](https://medium.com/impact-everywhere/jack-sim-toilet-podcast-11aa7937040b "Creating a Shitstorm for Good with Jack Sim")  &nbsp;&nbsp;&nbsp;&nbsp;  
+[![Josh Balk](assets/img/josh-balk.png)](https://medium.com/impact-everywhere/josh-balk-plant-based-podcast-9a8aa6118792 "Humanity on Our Plates ft. Josh Balk")  &nbsp;&nbsp;&nbsp;&nbsp;  
+[![Alison Teal](assets/img/alison-teal.jpg)](https://medium.com/impact-everywhere/alison-teal-social-influence-podcast-4a0f6a56d3f3 "The Intersection of Social Influence and Impact ft. Alison Teal")  &nbsp;&nbsp;&nbsp;&nbsp;  
 [![Charly Kleissner](assets/img/c-kleissner.png)](https://medium.com/impact-everywhere/charly-kleissner-impact-investment-podcast-fcce30cfb41d "Pioneering the world of Deep Impact Investing ft. Dr. Charly Kleissner, Co-Founder of KLF, Toniic, and ImpactAssets")  
 
 
