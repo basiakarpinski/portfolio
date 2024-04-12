@@ -71,14 +71,22 @@ Sample episodes worked on:
 *Skills:* chase production, remote interview, Canva, Reaper, Descript, social media marketing  
 
 ### **Assistant Language Teacher** @ *Kobe Municipal Board of Education* &nbsp;&nbsp;&nbsp;&nbsp; (Feb 2016 – June 2020)  
-- Leading professional development seminars for educators about national curriculum changes, instructional design, work ethic, inquiry methods, edtech in the classroom 
-- Corresponding with ministry regarding World Wide Learning (WWL) Ministry of Education initiatives - [Sample lesson presented for the Ministry of Education](https://www.mext.go.jp/a_menu/kokusai/sgh/mext_00676.html#:~:text=%E7%A5%9E%E6%88%B8%E5%B8%82%E7%AB%8B%E8%91%BA%E5%90%88,%E5%85%B5%E5%BA%AB%E7%9C%8C)  
+- Leading **professional development seminars** for educators about national curriculum changes, instructional design, work ethic, inquiry methods, edtech in the classroom 
+- Corresponding with ministry regarding World Wide Learning (WWL) Ministry of Education initiatives - [Sample lesson presented for the Ministry of Education (EN/JP)](https://www.mext.go.jp/a_menu/kokusai/sgh/mext_00676.html#:~:text=%E7%A5%9E%E6%88%B8%E5%B8%82%E7%AB%8B%E8%91%BA%E5%90%88,%E5%85%B5%E5%BA%AB%E7%9C%8C)  
 - Supervising students in independent research, international conference planning, activism campaigns  
-- Creating curricula, standards, and evaluation for senior-level courses in academic writing, entrance exam strategies, multimedia content creation, product design, organ transplantation, A.I., education, leadership  
-- Assistant coaching for boys’ volleyball team, parliamentary debate, and national speech contestants
+- Creating **curricula, standards, and evaluation** for senior-level courses in academic writing, entrance exam strategies, multimedia content creation, product design, organ transplantation, A.I., learning theory, leadership styles
+- event photography for school events and competitions  
+- Assistant coaching for boys’ volleyball team, parliamentary debate, and national speech contestants  
 
-[Click here to see a example seminar slideshow](assets/lesson_materials/Job_Training_presentation_-_The Classroom Environment.pptx.pdf)  
-[]
+Sample work   
+- [Example seminar slideshow](assets/lesson_materials/Job_Training_presentation_-_The_Classroom_Environment.pptx.pdf)    
+- [Interdisciplinary "Physics in English" collaborative lesson - Academic review article (EN/JP)](assets/lesson_materials/Interdisciplinary_lesson_action_research_review_article.docx.pdf)  
+- [Review worksheet - When to use 'a' and 'the'](assets/lesson_materials/Review_worksheet_-_When_to_use_a_and_the.docx.pdf)  
+- [Primary research introduction lesson](assets/lesson_materials/Primary_Research_intro_lesson.pptx.pdf)  
+- [Classroom warm-up exercises: writing topics](https://github.com/basiakarpinski/basiakarpinski/blob/main/assets/lesson_materials/Writing_warm-up_topics.docx.pdf)  
+- [Weekly personal growth challenges](assets/lesson_materials/Weekly_personal_challenges_2020.docx.pdf)  
+
+*Skills:* foreign language instruction, socratic seminars, critical pedagogy, instructional design, event planning, classroom management  
 
 ### Projects
 
