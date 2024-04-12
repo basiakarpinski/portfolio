@@ -7,7 +7,7 @@ function filterSections() {
     var sections = document.querySelectorAll("details");
     
     sections.forEach(function(section) {
-      var summaryText = section.querySelector("details").textContent.toLowerCase();
+      var summaryText = section.querySelector("summary").textContent.toLowerCase();
       if (summaryText.includes(filterInput)) {
         section.style.display = "block";
       } else {

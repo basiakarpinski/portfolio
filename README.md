@@ -1,4 +1,3 @@
-
 <script src="filter.js"></script> <!-- Include external JavaScript file -->
 
 # Basia Karpinski
@@ -23,7 +22,7 @@
 - Streamlining asset ingestion pipeline and library management
 - Validating accuracy of metadata for large-scale databases  
 
-*Skills:* database management & validation, Nasuni cloud storage, Airtable, Shotgrid, Slack 
+<summary> *Skills:* database management & validation, Nasuni cloud storage, Airtable, Shotgrid, Slack </summary>
 </details>
 
 ### **Volumetric Capture Technician** @ *Departure Lounge* &nbsp;&nbsp;&nbsp;&nbsp; (Aug 2022 – Nov 2023)  
