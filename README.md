@@ -1,4 +1,4 @@
-<script src="filter.js"></script> <!-- Include external JavaScript file -->
+<script src="/filter.js"></script> <!-- Include external JavaScript file -->
 
 # Basia Karpinski
 *I'm the support character on your all-star team.*
