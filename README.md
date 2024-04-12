@@ -66,8 +66,9 @@
 Sample episodes worked on:  
 [![Michelle Thaller](assets/img/m-thaller.png)](https://medium.com/impact-everywhere/michelle-thaller-curiosity-podcast-852a5818c370 "The Unexpected Benefits of Investing in Curiosity ft. NASA Research Scientist Michelle Thaller")  &nbsp;&nbsp;&nbsp;&nbsp;
 [![Jack Sim](assets/img/jack-sim.png)](https://medium.com/impact-everywhere/jack-sim-toilet-podcast-11aa7937040b "Creating a Shitstorm for Good with Jack Sim")  &nbsp;&nbsp;&nbsp;&nbsp;
-[![Archspire - BtF Behind-the-scenes](https://img.youtube.com/vi/vfbZmXtOA0c/mqdefault.jpg)](https://youtu.be/vfbZmXtOA0c?si=pMwhzOc9pq_gEahV&t=66 "Archspire - BtF Behind-the-scenes")  &nbsp;&nbsp;&nbsp;&nbsp;
-[![CBC Vancouver - Departure Lounge](https://img.youtube.com/vi/LGD44qzIxpg/mqdefault.jpg)](https://www.youtube.com/watch?v=LGD44qzIxpg "CBC Vancouver - Departure Lounge") 
+[![Josh Balk](assets/img/josh-balk.png)](https://medium.com/impact-everywhere/josh-balk-plant-based-podcast-9a8aa6118792 "Humanity on Our Plates ft. Josh Balk")  &nbsp;&nbsp;&nbsp;&nbsp;
+[![Charly Kleissner](assets/img/c-kleissner.png)](https://medium.com/impact-everywhere/charly-kleissner-impact-investment-podcast-fcce30cfb41d "Pioneering the world of Deep Impact Investing ft. Dr. Charly Kleissner, Co-Founder of KLF, Toniic, and ImpactAssets")  
+[![Alison Teal](assets/img/alison-teal.png)](https://medium.com/impact-everywhere/alison-teal-social-influence-podcast-4a0f6a56d3f3 "The Intersection of Social Influence and Impact ft. Alison Teal")
 
 
 
