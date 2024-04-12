@@ -77,7 +77,8 @@ Sample episodes worked on:
 - Creating curricula, standards, and evaluation for senior-level courses in academic writing, entrance exam strategies, multimedia content creation, product design, organ transplantation, A.I., education, leadership  
 - Assistant coaching for boys’ volleyball team, parliamentary debate, and national speech contestants
 
-[Click here to see a example seminar slideshow](https://www.mext.go.jp/a_menu/kokusai/sgh/mext_00676.html#:~:text=%E7%A5%9E%E6%88%B8%E5%B8%82%E7%AB%8B%E8%91%BA%E5%90%88,%E5%85%B5%E5%BA%AB%E7%9C%8C)
+[Click here to see a example seminar slideshow](assets/lesson_materials/Job_Training_presentation_-_The Classroom Environment.pptx.pdf)  
+[]
 
 ### Projects
 
