@@ -1,6 +1,3 @@
-# Basia Karpinski
-*I'm the support character on your all-star team.*
-
 ## Education
 - **Educational Technology, Masters &nbsp;&nbsp;&nbsp;&nbsp; *The University of British Columbia (2020)*** 
   - Courses: business and professional ethics, research methodology, instructional design, mobile & open technology, EdTech ventures, andragogy, English grammar and usage  
@@ -10,8 +7,8 @@
 
  &nbsp;&nbsp;&nbsp;&nbsp;  
 
-## Work Experience  
-  
+## Work Experience   
+   
 ### **Asset Library Data Wrangler** @ *Electronic Arts Inc* &nbsp;&nbsp;&nbsp;&nbsp; (Dec 2023 – Mar 2024) 
  
 - Quality assurance and indexing 8000+ motion capture assets for data library
