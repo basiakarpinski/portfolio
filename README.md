@@ -12,7 +12,7 @@
 ### **Asset Library Data Wrangler** @ *Electronic Arts Inc* &nbsp;&nbsp;&nbsp;&nbsp; (Dec 2023 – Mar 2024) 
  
 - Quality assurance and indexing 8000+ motion capture assets for data library
-- Preparing frame-accurate datasets for machine learning
+- Preparing frame-accurate **datasets for machine learning**
 - Streamlining asset ingestion pipeline and library management
 - Validating accuracy of metadata for large-scale databases  
 
@@ -22,14 +22,14 @@
 
 
 - Installing, wiring, disassembling LED virtual production volumes (100-16,000 wall + ceiling) - [See the permanent volume here](https://en.versatile.media/magic-hour-all-day-versatile-media-offers-unbelievable-vancouver-facility-for-filmmakers/)
-- Maintaining the volumetric capture stage, including pre-shoot prep, reconfiguration, and shoot operation, coordinating lighting, audio technicians, and makeup/wardrobe department  
+- Maintaining the volumetric capture stage, including **pre-shoot prep, reconfiguration, and shoot operation,** coordinating lighting, audio technicians, and makeup/wardrobe department  
 - Updating, maintaining, and troubleshooting camera and stage hardware and firmware
 - Editing and troubleshooting proprietary pipeline elements  
 - Exporting, organizing, and preconditioning capture data, preparing previews for clients
-- Post-processing data for client delivery, including quality control and manual corrections
+- **Post-processing data for client delivery,** including quality control and manual corrections
 - Creating stage operation and processing documentation for cross-training
 - Testing and debugging third-party software & hardware 
-- Research and development to improve quality and push the capabilities of volumetric video integration  
+- **Research and development** to improve quality and push the capabilities of volumetric video integration  
 
 *Work Samples:*  
 
@@ -45,11 +45,11 @@
 ### **Capture Data Wrangler** @ *Electronic Arts Inc.*	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (Sept 2020 – Aug 2022)  
 
 
-- Setting up studio programs for motion, performance, director’s camera, & 3D scan captures for **Madden, FIFA, Dragon Age, Skate, SIMS, UFC, PGA Tour, College Football, etc.**
+- Setting up studio programs for **motion, performance, director’s camera**, & 3D scan captures for Madden, FIFA, Dragon Age, Skate, SIMS, UFC, PGA Tour, College Football, etc.
 - Ingesting, conditioning, and processing internal and external vendor capture data for delivery to clients and other departments using cloud storage and web-based applications  
 - Acting as first level of tech support for database, pipeline, delivery, and access issues
-- Compiling procedures into easy-to-understand manuals and guides for new employees
-- Processing photogrammetry, photometric, & 4D scans into digital models  
+- Compiling procedures into **easy-to-understand manuals** and guides for new employees
+- **Processing photogrammetry, photometric, & 4D scans** into digital models  
 
 *Game Credits:*  
 [Madden 23](https://youtu.be/PSFCBmMuxIg?si=02D9vEQX7ORDIQ7R&t=229)  
