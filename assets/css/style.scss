@@ -109,7 +109,7 @@ body {
   header {
     width:270px;
     float:left;
-    position:fixed;
+    position:relative;
     -webkit-font-smoothing:subpixel-antialiased;
   }
   
@@ -174,7 +174,7 @@ body {
   
   section {
     width:690px;
-    float:none;
+    float:right;
     padding-bottom:50px;
   }
   
