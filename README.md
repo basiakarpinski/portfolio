@@ -99,18 +99,22 @@ Sample work
 
 *Skills:* foreign language instruction, socratic seminars, critical pedagogy, instructional design, event planning, classroom management  
 
+&nbsp;&nbsp;&nbsp;&nbsp;  
 
-### Projects  
+## Projects  
 
-[![Kobe Fireworks Festival](https://photos.smugmug.com/Live-Events/i-5M6sJCS/0/CQ3dGX8tKvgL3s6TkfqRhLvp59V4GP5hD9TmPRQh3/S/LCN_6381-S.jpg)](https://basiakarpinski.smugmug.com)  
+- ![Smugmug link](assets/img/smugmug.png)
 [Event, Sports, Landscape Photography Portfolio](https://basiakarpinski.smugmug.com)  
 
-[SQL Analysis - Software Engineering employment prospects 2023](https://github.com/basiakarpinski/SQL_Project_Data_Analysis)
+- ![SQL Project](assets/img/github.png) [SQL Analysis - Software Engineering employment prospects 2023](https://github.com/basiakarpinski/SQL_Project_Data_Analysis)
 
+&nbsp;&nbsp;&nbsp;&nbsp;  
 
-### Certifications
+## Certifications
 
-### Testimonials
+&nbsp;&nbsp;&nbsp;&nbsp;  
+
+## Testimonials
 
 
 
