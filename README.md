@@ -110,11 +110,11 @@ Sample work
 
 &nbsp;&nbsp;&nbsp;&nbsp;  
 
-## Certifications
+<!-- ## Certifications
 
 &nbsp;&nbsp;&nbsp;&nbsp;  
 
-## Testimonials
+## Testimonials -->
 
 
 
