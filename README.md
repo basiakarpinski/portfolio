@@ -9,7 +9,7 @@
 
 ## Work Experience   
    
-### **Asset Library Data Wrangler** @ *Electronic Arts Inc* &nbsp;&nbsp;&nbsp;&nbsp; (Dec 2023 – Mar 2024) 
+### **Asset Library Data Wrangler** @ *Electronic Arts Inc* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Dec 2023 – Mar 2024) 
  
 - Quality assurance and indexing 8000+ motion capture assets for data library
 - Preparing frame-accurate **datasets for machine learning**
@@ -42,7 +42,7 @@
 *Skills:* volumetric video, photogrammetry, IOI Volucam & StudioCap, Microsoft Mixed Reality Capture Studios, Parsec, Remote Desktop Connection, Perforce, Isilon storage, Azure Active Directory, Azure cloud processing, Clickup, Slack, Discord, Google office suite, Zoom, event planning & logistics, virtual production installation, workstation configuration, remote render farm management, python, command line, log file troubleshooting, IT support
 
 
-### **Capture Data Wrangler** @ *Electronic Arts Inc.*	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (Sept 2020 – Aug 2022)  
+### **Capture Data Wrangler** @ *Electronic Arts Inc.*	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (Sept 2020 – Aug 2022)  
 
 
 - Setting up studio programs for **motion, performance, director’s camera**, & 3D scan captures for Madden, FIFA, Dragon Age, Skate, SIMS, UFC, PGA Tour, College Football, etc.
@@ -60,7 +60,7 @@
 *Skills:* optical & inertial motion capture, photogrammetry, photometrics, facial performance capture, FACS, director's camera, AWS cloud processing, Nasuni cloud storage, MotionBuilder, Shogun, Shotgrid, Perforce, monday.com, Google office suite, Slack, JIRA, Zoom, Remote Desktop Connection, Agisoft Metashape, Maya, Qube render manager, RealityCapture, 3DF Zephyr, VisualSFM, COLMAP, python, log file troubleshooting, IT support   
 
 
-### **Producer** @ *Impact Everywhere Podcast* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (June 2020 – Oct 2020)  
+### **Producer** @ *Impact Everywhere Podcast* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (June 2020 – Oct 2020)  
 
 
 - Researching & corresponding with potential interview guests, **preparing profiles and interview questions**
