@@ -72,7 +72,7 @@
 Sample episodes worked on:  
 [![Michelle Thaller](assets/img/m-thaller.png)](https://medium.com/impact-everywhere/michelle-thaller-curiosity-podcast-852a5818c370 "The Unexpected Benefits of Investing in Curiosity ft. NASA Research Scientist Michelle Thaller")  &nbsp;&nbsp;
 [![Josh Balk](assets/img/josh-balk.png)](https://medium.com/impact-everywhere/josh-balk-plant-based-podcast-9a8aa6118792 "Humanity on Our Plates ft. Josh Balk")  &nbsp;&nbsp;&nbsp;&nbsp;  
-[![Charly Kleissner](assets/img/c-kleissner.png)](https://medium.com/impact-everywhere/charly-kleissner-impact-investment-podcast-fcce30cfb41d "Pioneering the world of Deep Impact Investing ft. Dr. Charly Kleissner, Co-Founder of KLF, Toniic, and ImpactAssets")  
+&nbsp;[![Charly Kleissner](assets/img/c-kleissner.png)](https://medium.com/impact-everywhere/charly-kleissner-impact-investment-podcast-fcce30cfb41d "Pioneering the world of Deep Impact Investing ft. Dr. Charly Kleissner, Co-Founder of KLF, Toniic, and ImpactAssets")  
 
 *Skills:* chase production, remote interview, Canva, Reaper, Descript, social media marketing  
 
