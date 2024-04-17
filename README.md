@@ -10,15 +10,22 @@
  &nbsp;&nbsp;&nbsp;&nbsp;  
 
 ## Work Experience   
-   
+
+ <details>
+ <summary>
+ <p>    
 ### **Asset Library Data Wrangler** @ *Electronic Arts Inc* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Dec 2023 – Mar 2024) 
+</p>
+</summary>
  
 - Quality assurance and indexing 8000+ motion capture assets for data library
 - Preparing frame-accurate **datasets for machine learning**
 - Streamlining asset ingestion pipeline and library management
 - Validating accuracy of metadata for large-scale databases  
 
-*Skills:* database management & validation, Nasuni cloud storage, Airtable, Shotgrid, Slack
+*Skills:* database management & validation, Nasuni cloud storage, Airtable, Shotgrid, Slack  
+</details>
+
 
 ### **Volumetric Capture Technician** @ *Departure Lounge* &nbsp;&nbsp;&nbsp;&nbsp; (Aug 2022 – Nov 2023)  
 
