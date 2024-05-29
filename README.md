@@ -11,6 +11,16 @@
 
 ## Work Experience   
 
+### **Volumetric Capture Technician** @ *Evercoast* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Mar 2024 – Aug 2024) 
+ 
+- Building on-location volumetric capture studios for **The Olympic Games Paris 2024** and Intel conference
+- Preparing and training athletes and conference attendees for volumetric and audio capture
+- Operating proprietary capture and processing software
+- Improving the quality output of the capture studio and software  
+
+*Skills:* volumetric capture, live production setup/strike, cloud processing, promotional communication  
+
+
 ### **Asset Library Data Wrangler** @ *Electronic Arts Inc* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Dec 2023 – Mar 2024) 
  
 - Quality assurance and indexing 8000+ motion capture assets for data library
