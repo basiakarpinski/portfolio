@@ -121,11 +121,14 @@ Sample work
 
 &nbsp;&nbsp;&nbsp;&nbsp;  
 
-<!-- ## Certifications
+ ## Certifications
+
+ - [SQL for Data Analytics](assets\certification\sql-course-certificate.pdf)  
+ - [Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TPS 2: CORE)](assets\certification\tcps2_core_certificate.pdf)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;  
 
-## Testimonials -->
+<!-- ## Testimonials -->
 
 
 
