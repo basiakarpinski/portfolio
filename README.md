@@ -1,4 +1,4 @@
-<title> Basia Karpinski </title>  
+<title> Basia Karpiński </title>  
 
 ## Education
 - **Educational Technology, Masters &nbsp;&nbsp;&nbsp;&nbsp; *The University of British Columbia (2020)*** 
