@@ -7,6 +7,11 @@
 - **Multimedia, Hon. Bachelors &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *McMaster University (2015)***  
   - Courses: leadership and mentorship, second language acquisition, shorter literary genres, communication theory, qualitative and quantitative methods, creative industry project management, code strategies, programming & design fundamentals, interactive & spatial audio  
 
+### Certifications
+
+ - [SQL for Data Analytics](assets\certification\sql-course-certificate.pdf)  
+ - [Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TPS 2: CORE)](assets\certification\tcps2_core_certificate.pdf)  
+
  &nbsp;&nbsp;&nbsp;&nbsp;  
 
 ## Work Experience   
@@ -121,7 +126,7 @@ Sample work
 
 &nbsp;&nbsp;&nbsp;&nbsp;  
 
- ## Certifications
+## Certifications
 
  - [SQL for Data Analytics](assets\certification\sql-course-certificate.pdf)  
  - [Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TPS 2: CORE)](assets\certification\tcps2_core_certificate.pdf)  
