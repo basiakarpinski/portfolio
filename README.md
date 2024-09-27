@@ -1,7 +1,7 @@
 <title> Basia Karpiński </title>  
 
 ## Education
-- **Educational Technology, Masters &nbsp;&nbsp;&nbsp;&nbsp; *The University of British Columbia (2020)*** 
+- **Educational Technology, Masters &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The University of British Columbia (2020)*** 
   - Courses: business and professional ethics, research methodology, instructional design, mobile & open technology, EdTech ventures, andragogy, English grammar and usage  
 
 - **Multimedia, Hon. Bachelors &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *McMaster University (2015)***  
