@@ -11,6 +11,11 @@
 
  - [SQL for Data Analytics](assets\certification\sql-course-certificate.pdf)  
  - [Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TPS 2: CORE)](assets\certification\tcps2_core_certificate.pdf)  
+ - [BCIT: Incident Response and Disaster Recovery](https://api.ca.badgr.io/public/assertions/d7IjKt6vSNaZT_Y4Sw22Lg)
+ - [BCIT: Development Security](https://api.ca.badgr.io/public/assertions/jP_uVyc3Tq6v_nxYKuleAg)
+ - [BCIT: Network Security using Kali Linux](https://api.ca.badgr.io/public/assertions/vNTo-iBzTaev7WMEkCz5gw)
+ - [BCIT: Network Foundation](https://api.ca.badgr.io/public/assertions/EIn52mP2R-6-vqAvo150Hw)
+
 
  &nbsp;&nbsp;&nbsp;&nbsp;  
 
