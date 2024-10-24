@@ -2,12 +2,12 @@
 
 ## Education
 - **Cybersecurity Essentials for IT Professionals &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *British Columbia Institute of Technology (2024)***  
-  - Courses: Network Foundations, Network Security using Kali Linux, Inciden Reponse & Disaster recovery  
+  - Courses: Network Foundations, Network Security using Kali Linux, Incident Reponse & Disaster recovery  
   
-- **Educational Technology, Masters &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The University of British Columbia (2020)*** 
+- **Educational Technology, Masters &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The University of British Columbia (2020)*** 
   - Courses: business and professional ethics, research methodology, instructional design, mobile & open technology, EdTech ventures, andragogy, English grammar and usage  
 
-- **Multimedia, Hon. Bachelors &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *McMaster University (2015)***  
+- **Multimedia, Hon. Bachelors &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *McMaster University (2015)***  
   - Courses: leadership and mentorship, second language acquisition, shorter literary genres, communication theory, qualitative and quantitative methods, creative industry project management, code strategies, programming & design fundamentals, interactive & spatial audio  
 
 
