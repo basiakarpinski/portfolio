@@ -1,21 +1,22 @@
 <title> Basia Karpiński </title>  
 
 ## Education
+- **Cybersecurity Essentials for IT Professionals, Microcredential &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *British Columbia Institute of Technology (2024)***  
+  - Courses: Network Foundations, Network Security using Kali Linux, Inciden Reponse & Disaster recovery  
+  
 - **Educational Technology, Masters &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The University of British Columbia (2020)*** 
   - Courses: business and professional ethics, research methodology, instructional design, mobile & open technology, EdTech ventures, andragogy, English grammar and usage  
 
 - **Multimedia, Hon. Bachelors &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *McMaster University (2015)***  
   - Courses: leadership and mentorship, second language acquisition, shorter literary genres, communication theory, qualitative and quantitative methods, creative industry project management, code strategies, programming & design fundamentals, interactive & spatial audio  
 
+
+
 ### Certifications
 
  - [SQL for Data Analytics](assets\certification\sql-course-certificate.pdf)  
- - [Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TPS 2: CORE)](assets\certification\tcps2_core_certificate.pdf)  
- - [BCIT: Incident Response and Disaster Recovery](https://api.ca.badgr.io/public/assertions/d7IjKt6vSNaZT_Y4Sw22Lg)
+ - [Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TPS 2: CORE)](assets\certification\tcps2_core_certificate.pdf)
  - [BCIT: Development Security](https://api.ca.badgr.io/public/assertions/jP_uVyc3Tq6v_nxYKuleAg)
- - [BCIT: Network Security using Kali Linux](https://api.ca.badgr.io/public/assertions/vNTo-iBzTaev7WMEkCz5gw)
- - [BCIT: Network Foundation](https://api.ca.badgr.io/public/assertions/EIn52mP2R-6-vqAvo150Hw)
-
 
  &nbsp;&nbsp;&nbsp;&nbsp;  
 
