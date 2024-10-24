@@ -1,7 +1,7 @@
 <title> Basia Karpiński </title>  
 
 ## Education
-- **Cybersecurity Essentials for IT Professionals, Microcredential &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *British Columbia Institute of Technology (2024)***  
+- **Cybersecurity Essentials for IT Professionals &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *British Columbia Institute of Technology (2024)***  
   - Courses: Network Foundations, Network Security using Kali Linux, Inciden Reponse & Disaster recovery  
   
 - **Educational Technology, Masters &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The University of British Columbia (2020)*** 
