@@ -84,6 +84,7 @@
 [FIFA 22](https://youtu.be/eTZxMoRtqk4?si=TIbQSXWcvcFSO8ND&t=583)  
 [FIFA 23](https://youtu.be/o89Jg-h7N3k?si=zH7oM6YHvCrT9vUs&t=1974)  
 [Dead Space Remake](https://youtu.be/XzY8GBSNydQ?si=aNuXmqCmwoKvlKQO&t=913)  
+[Dragon Age: The Veilguard](https://youtu.be/A0CVxwnKwzs?si=pxcIgZUMFFDmRkOC&t=770)   
 
 *Skills:* optical & inertial motion capture, photogrammetry, photometrics, facial performance capture, FACS, director's camera, AWS cloud processing, Nasuni cloud storage, MotionBuilder, Shogun, Shotgrid, Perforce, monday.com, Google office suite, Slack, JIRA, Zoom, Remote Desktop Connection, Agisoft Metashape, Maya, Qube render manager, RealityCapture, 3DF Zephyr, VisualSFM, COLMAP, python, log file troubleshooting, IT support   
 
