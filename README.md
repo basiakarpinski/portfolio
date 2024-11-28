@@ -46,7 +46,7 @@
 *Skills:* database management & validation, Nasuni cloud storage, Airtable, Shotgrid, Slack  
 
 
-### **Volumetric Capture Technician** @ *Departure Lounge* &nbsp;&nbsp;&nbsp;&nbsp; (Aug 2022 – Nov 2023)  
+### **Senior Volumetric Capture Technician** @ *Departure Lounge* &nbsp;&nbsp;&nbsp;&nbsp; (Aug 2022 – Nov 2023)  
 
 
 - Installing, wiring, disassembling LED virtual production volumes (100-16,000 wall + ceiling) - [See the permanent volume here](https://en.versatile.media/magic-hour-all-day-versatile-media-offers-unbelievable-vancouver-facility-for-filmmakers/)
