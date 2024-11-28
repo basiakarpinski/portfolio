@@ -24,7 +24,7 @@
 
 ### **Technical Operations Manager** @ *Evercoast* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Mar 2024 – Aug 2024) 
  
-- Building on-location volumetric capture studios for **The Olympic Games Paris 2024** and Intel conferences
+- Building on-location volumetric capture studios for the **Olympic Games Paris 2024** and Intel conferences
 - Preparing and training athletes and conference attendees for volumetric and audio capture
 - Operating proprietary capture and processing software
 - Improving the quality output of the capture studio and software  
