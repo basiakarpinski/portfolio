@@ -29,7 +29,7 @@
 - Operating proprietary capture and processing software
 - Improving the quality output of the capture studio and software  
 
-[![RTVE Broadcast - Ayoub Ghadfa](assets\videos\rtve.png)](assets\videos\VID-20240804-WA0000.mp4 "RTVE Broadcast instroducing Ayoub Ghadfa with 3D asset")  &nbsp;&nbsp;&nbsp;&nbsp;
+[![RTVE Broadcast - Ayoub Ghadfa](assets/videos/rtve.png)](assets/videos/VID-20240804-WA0000.mp4 "RTVE Broadcast instroducing Ayoub Ghadfa with 3D asset")  &nbsp;&nbsp;&nbsp;&nbsp;
 [![Live from Paris 2024: Interview with Intel's Courtney Willock](assets/img/AR-at-Paris-2024.png)](https://youtu.be/guoDiPZNTqg?si=zvsED0mbDL-1ZBip&t=131 "Live from Paris 2024: Interview with Intel's Courtney Willock")  &nbsp;&nbsp;&nbsp;&nbsp;
 [Basia in Augmented reality!](https://streaming.evercoast.com/player/latest/index.html?a=Intel%20Corporation/OLV-Village1-Test.Basia.ec.take.001/13426/OLV-Village1-Test.Basia.ec.take.001.ecm&g=1&l=1&o=3&q=1)  
 
