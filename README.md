@@ -14,8 +14,8 @@
 
 ### Certifications
 
- - [SQL for Data Analytics](assets\certification\sql-course-certificate.pdf)  
- - [Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TPS 2: CORE)](assets\certification\tcps2_core_certificate.pdf)
+ - [SQL for Data Analytics](assets/certification/sql-course-certificate.pdf)  
+ - [Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TPS 2: CORE)](assets/certification/tcps2_core_certificate.pdf)
  - [BCIT: Development Security](https://api.ca.badgr.io/public/assertions/jP_uVyc3Tq6v_nxYKuleAg)
 
  &nbsp;&nbsp;&nbsp;&nbsp;  
