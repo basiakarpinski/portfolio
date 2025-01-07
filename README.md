@@ -2,7 +2,10 @@
 
 ## Education
 - **Cybersecurity Essentials for IT Professionals &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *British Columbia Institute of Technology (2024)***  
-  - Courses: Network Foundations, Network Security using Kali Linux, Incident Reponse & Disaster recovery  
+  - Courses: Development Security, Ethical Hacking, SOAR & SIEM, Network Defense Essentials, Digital Forensics  
+
+- **Cybersecurity Analysis for Network Administrators &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *British Columbia Institute of Technology (2024)***  
+  - Courses: Network Foundations, Network Security using Kali Linux, Incident Response and Disaster Recovery  
   
 - **Educational Technology, Masters &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The University of British Columbia (2020)*** 
   - Courses: business and professional ethics, research methodology, instructional design, mobile & open technology, EdTech ventures, andragogy, English grammar and usage  
@@ -16,11 +19,17 @@
 
  - [SQL for Data Analytics](assets/certification/sql-course-certificate.pdf)  
  - [Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TPS 2: CORE)](assets/certification/tcps2_core_certificate.pdf)
- - [BCIT: Development Security](https://api.ca.badgr.io/public/assertions/jP_uVyc3Tq6v_nxYKuleAg)
 
  &nbsp;&nbsp;&nbsp;&nbsp;  
 
 ## Work Experience   
+
+### **Instructional Designer** @ *Vancouver Japanese Language School*  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (Nov – Dec 2024)
+- Built upon the research of the VJLS-JH History Club to document the history of Powell St. Nikkei community
+- Prepared lesson plans & materials for SHS introductory lessons to the history of Japanese-Canadian settlement in accordance with key learning objectives of the BC Senior High School curriculum 
+- Ran focus groups and iterated on lesson content design for use in BC public school classrooms
+
+*Skills:* instructional design, educational technology, Google Office Suite, research 
 
 ### **Technical Operations Manager** @ *Evercoast* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Mar 2024 – Aug 2024) 
  
